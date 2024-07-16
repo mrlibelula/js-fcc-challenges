@@ -61,4 +61,4 @@ function convertToRoman(num) {
   return str
 }
 
-console.log(convertToRoman('5830'))
+console.log(convertToRoman('239'))

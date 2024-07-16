@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}\\int-to-roman.js"
+      "program": "${workspaceFolder}\\test.js"
     }
   ]
 }

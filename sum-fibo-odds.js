@@ -13,6 +13,12 @@
   odd Fibonacci numbers less than or equal to 10 are
   1, 1, 3, and 5.
 */
+
+/**
+ * 
+ * @param {number} num 
+ * @returns 
+ */
 function sumFibs(num) {
   if (num <= 0) return 0
   return (n => {
